@@ -1,0 +1,12 @@
+Library/
+Temp/
+Assets/
+ProjectSettings/
+Packages/
+Logs/
+Unity.CollabProxy.Editor.csproj
+Unity.Analytics.DataPrivacy.csproj
+Unity.TextMeshPro.csproj
+Unity.TextMeshPro.Editor.csproj
+Unity.PackageManagerUI.Editor.csproj
+Sand.sln
